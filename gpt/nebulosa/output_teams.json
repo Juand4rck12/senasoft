@@ -1,0 +1,29 @@
+{
+  "nombre_competencia": "SENASoft 2025 - Fase de Clasificación",
+  "total_equipos_formados": 1,
+  "equipos": [
+    {
+      "id_equipo": "TEAM-01",
+      "nombre_equipo_sugerido": "QuantumCoders",
+      "integrantes": [
+        {
+          "id_aprendiz": "SENA-112233",
+          "nombre_completo": "Ana Sofía Rojas",
+          "rol_asignado": "Frontend Developer"
+        },
+        {
+          "id_aprendiz": "SENA-445566",
+          "nombre_completo": "Carlos David Luna",
+          "rol_asignado": "Backend Developer"
+        },
+        {
+          "id_aprendiz": "SENA-778899",
+          "nombre_completo": "Laura Valentina Paz",
+          "rol_asignado": "QA & Database"
+        }
+      ],
+      "documento_sinergia": "./equipos/TEAM-01-PlanSinergia.md"
+    }
+  ],
+  "aprendices_sin_equipo": []
+}

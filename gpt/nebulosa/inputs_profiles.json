@@ -1,0 +1,106 @@
+[
+  {
+    "id_aprendiz": "SENA-112233",
+    "nombre_completo": "Ana Sofía Rojas",
+    "competencias_tecnicas": [
+      {
+        "habilidad": "JavaScript ES6+",
+        "nivel": "Avanzado"
+      },
+      {
+        "habilidad": "React",
+        "nivel": "Avanzado"
+      },
+      {
+        "habilidad": "HTML5/CSS3",
+        "nivel": "Avanzado"
+      },
+      {
+        "habilidad": "Node.js",
+        "nivel": "Principiante"
+      }
+    ],
+    "herramientas": [
+      "Git",
+      "Figma",
+      "VSCode",
+      "Postman"
+    ],
+    "rol_potencial_primario": "Frontend",
+    "rol_potencial_secundario": "Backend",
+    "competencias_blandas": [
+      "Trabajo en equipo",
+      "Comunicación asertiva"
+    ],
+    "link_portafolio": "https://github.com/anasofia"
+  },
+  {
+    "id_aprendiz": "SENA-445566",
+    "nombre_completo": "Carlos David Luna",
+    "competencias_tecnicas": [
+      {
+        "habilidad": "Java",
+        "nivel": "Avanzado"
+      },
+      {
+        "habilidad": "Spring Boot",
+        "nivel": "Intermedio"
+      },
+      {
+        "habilidad": "SQL (PostgreSQL)",
+        "nivel": "Intermedio"
+      },
+      {
+        "habilidad": "Docker",
+        "nivel": "Principiante"
+      }
+    ],
+    "herramientas": [
+      "Git",
+      "IntelliJ",
+      "DBeaver"
+    ],
+    "rol_potencial_primario": "Backend",
+    "rol_potencial_secundario": "DB",
+    "competencias_blandas": [
+      "Resolución de problemas",
+      "Pensamiento crítico"
+    ],
+    "link_portafolio": "https://github.com/carlosluna"
+  },
+  {
+    "id_aprendiz": "SENA-778899",
+    "nombre_completo": "Laura Valentina Paz",
+    "competencias_tecnicas": [
+      {
+        "habilidad": "SQL",
+        "nivel": "Intermedio"
+      },
+      {
+        "habilidad": "Pruebas de Software (QA)",
+        "nivel": "Avanzado"
+      },
+      {
+        "habilidad": "Cypress",
+        "nivel": "Intermedio"
+      },
+      {
+        "habilidad": "Python",
+        "nivel": "Principiante"
+      }
+    ],
+    "herramientas": [
+      "Git",
+      "Jira",
+      "Selenium",
+      "Postman"
+    ],
+    "rol_potencial_primario": "QA_DB",
+    "rol_potencial_secundario": "Backend",
+    "competencias_blandas": [
+      "Atención al detalle",
+      "Planificación"
+    ],
+    "link_portafolio": "https://github.com/laurapaz"
+  }
+]
