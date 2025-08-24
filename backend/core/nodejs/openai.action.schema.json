@@ -1,8 +1,13 @@
 {
   "openapi": "3.1.0",
-  "info": { "title": "SENASoft Metrics API", "version": "1.0.0" },
+  "info": {
+    "title": "SENASoft Metrics API",
+    "version": "1.0.0"
+  },
   "servers": [
-    { "url": "https://senasoft-core-dev-h2erabc0hhbcg7ee.eastus2-01.azurewebsites.net" }
+    {
+      "url": "https://senasoft-core-dev-h2erabc0hhbcg7ee.eastus2-01.azurewebsites.net"
+    }
   ],
   "paths": {
     "/metrics/scalar": {
@@ -20,18 +25,35 @@
                     "type": "object",
                     "additionalProperties": true,
                     "properties": {
-                      "description": { "type": "string" },
-                      "value": { "type": ["number", "string", "null"] }
+                      "description": {
+                        "type": "string"
+                      },
+                      "value": {
+                        "type": [
+                          "number",
+                          "string",
+                          "null"
+                        ]
+                      }
                     },
-                    "required": ["description", "value"]
+                    "required": [
+                      "description",
+                      "value"
+                    ]
                   }
                 },
                 "examples": {
                   "ok": {
                     "summary": "Ejemplo mínimo",
                     "value": [
-                      { "description": "# Aprendices inscritos únicos", "value": 775 },
-                      { "description": "% de perfiles DEV Backend", "value": "43.5%" }
+                      {
+                        "description": "# Aprendices inscritos únicos",
+                        "value": 775
+                      },
+                      {
+                        "description": "% de perfiles DEV Backend",
+                        "value": "43.5%"
+                      }
                     ]
                   }
                 }
@@ -39,10 +61,16 @@
               "text/plain": {
                 "schema": {
                   "oneOf": [
-                    { "type": "string", "description": "Texto plano; puede contener JSON serializado." },
+                    {
+                      "type": "string",
+                      "description": "Texto plano; puede contener JSON serializado."
+                    },
                     {
                       "type": "array",
-                      "items": { "type": "object", "additionalProperties": true }
+                      "items": {
+                        "type": "object",
+                        "additionalProperties": true
+                      }
                     }
                   ]
                 }
@@ -52,8 +80,223 @@
           "default": {
             "description": "Error inesperado",
             "content": {
-              "application/json": { "schema": { "type": "object", "additionalProperties": true } },
-              "text/plain": { "schema": { "type": "string" } }
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": true
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/metrics/apprentices-by-center": {
+      "get": {
+        "operationId": "getApprenticesByCenter",
+        "summary": "Obtener cantidad de aprendices inscritos por centro de formación",
+        "responses": {
+          "200": {
+            "description": "Lista de centros con cantidad de aprendices",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "trainingCenter": {
+                        "type": "string"
+                      },
+                      "totalApprentices": {
+                        "type": "number"
+                      }
+                    },
+                    "required": [
+                      "trainingCenter",
+                      "totalApprentices"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/metrics/instructors-by-center": {
+      "get": {
+        "operationId": "getInstructorsByCenter",
+        "summary": "Obtener nombres de instructores recomendados por centro de formación",
+        "responses": {
+          "200": {
+            "description": "Lista de centros con sus instructores recomendados",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "trainingCenter": {
+                        "type": "string"
+                      },
+                      "recommendedInstructors": {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        }
+                      }
+                    },
+                    "required": [
+                      "trainingCenter",
+                      "recommendedInstructors"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/metrics/apprentices-by-center-program": {
+      "get": {
+        "operationId": "getApprenticesByCenterProgram",
+        "summary": "Obtener cantidad de aprendices por centro y programa de formación",
+        "responses": {
+          "200": {
+            "description": "Lista detallada por centro y programa",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "trainingCenter": {
+                        "type": "string"
+                      },
+                      "trainingProgram": {
+                        "type": "string"
+                      },
+                      "totalApprentices": {
+                        "type": "number"
+                      }
+                    },
+                    "required": [
+                      "trainingCenter",
+                      "trainingProgram",
+                      "totalApprentices"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/metrics/apprentices-by-department": {
+      "get": {
+        "operationId": "getApprenticesByDepartment",
+        "summary": "Obtener cantidad de aprendices por departamento de residencia",
+        "responses": {
+          "200": {
+            "description": "Lista de departamentos con cantidad de aprendices",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "residenceDepartment": {
+                        "type": "string"
+                      },
+                      "totalApprentices": {
+                        "type": "number"
+                      }
+                    },
+                    "required": [
+                      "residenceDepartment",
+                      "totalApprentices"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/metrics/github-users": {
+      "get": {
+        "operationId": "getGithubUsers",
+        "summary": "Obtener estadísticas de aprendices con usuario de GitHub",
+        "responses": {
+          "200": {
+            "description": "Resumen de usuarios con y sin GitHub",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "totalWithGithub": {
+                      "type": "number"
+                    },
+                    "totalWithoutGithub": {
+                      "type": "number"
+                    },
+                    "totalRegistrations": {
+                      "type": "number"
+                    }
+                  },
+                  "required": [
+                    "totalWithGithub",
+                    "totalWithoutGithub",
+                    "totalRegistrations"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/metrics/english-level-by-center": {
+      "get": {
+        "operationId": "getEnglishLevelByCenter",
+        "summary": "Obtener cantidad de aprendices con nivel B1 o B2 de inglés por centro",
+        "responses": {
+          "200": {
+            "description": "Lista de centros con aprendices nivel B1/B2",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "trainingCenter": {
+                        "type": "string"
+                      },
+                      "totalB1B2": {
+                        "type": "number"
+                      }
+                    },
+                    "required": [
+                      "trainingCenter",
+                      "totalB1B2"
+                    ]
+                  }
+                }
+              }
             }
           }
         }
