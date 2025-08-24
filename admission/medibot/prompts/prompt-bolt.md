@@ -49,3 +49,6 @@ MediBot es un ecosistema de apoyo integral para pacientes vulnerables en Colombi
 
 ### Modelo de Negocio y Escalabilidad
 MediBot opera con un modelo de negocio híbrido, lo que le permite generar ingresos y crecer de manera sostenible mientras cumple su misión social.
+
+### LINK
+[https://medibot-medical-assi-u88o.bolt.host/]
