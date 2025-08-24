@@ -1,0 +1,866 @@
+[
+    {
+        "fullName": "Juan David Pérez",
+        "trainingCenter": "CENTRO DE GESTION DE MERCADOS, LOGISTICA Y TECNOLOGIAS DE LA INFORMACION",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Andrés Castillo",
+        "residenceDepartment": "Cundinamarca",
+        "githubUser": "juand-perez",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Maria Camila Rojas",
+        "trainingCenter": "CENTRO DE TECNOLOGÍA DE LA MANUFACTURA AVANZADA -MEDELLIN-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Beatriz Londoño",
+        "residenceDepartment": "Antioquia",
+        "githubUser": "mariarojas-dev",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Carlos Andrés Gómez",
+        "trainingCenter": "CENTRO DE BIOTECNOLOGIA INDUSTRIA -PALMIRA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Felipe Peña",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": null,
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Ana Lucía Martínez",
+        "trainingCenter": "CENTRO DE DISEÑO E INNOVACION TEGNOLOGICA INDUSTRIAL- DOS QUEBRADAS-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Ricardo Serna",
+        "residenceDepartment": "Risaralda",
+        "githubUser": "analuciam",
+        "englishLevel": "C1"
+    },
+    {
+        "fullName": "Luis Fernando Torres",
+        "trainingCenter": "CENTRO INDUSTRIAL Y DE AVIACION -BARRANQUILLA-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Sofia Vergara",
+        "residenceDepartment": "Atlántico",
+        "githubUser": "luisftorres",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Sofia Isabel Diaz",
+        "trainingCenter": "CENTRO DE COMERCIO Y SERVICIOS -POPAYAN-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Diego Ardila",
+        "residenceDepartment": "Cauca",
+        "githubUser": "sofia-diaz-code",
+        "englishLevel": "A1"
+    },
+    {
+        "fullName": "Diego Alejandro Sanchez",
+        "trainingCenter": "CENTRO DE GESTION ADMINISTRATIVA",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Mónica Alvarado",
+        "residenceDepartment": "Bogotá D.C.",
+        "githubUser": "diegoasanchez",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Valentina Ortiz",
+        "trainingCenter": "CENTRO DE INDUSTRIA Y CONSTRUCCION -IBAGUE-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Javier Mendez",
+        "residenceDepartment": "Tolima",
+        "githubUser": null,
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Santiago Castro",
+        "trainingCenter": "CENTRO DE SERVICIOS EMPRESARIALES Y TURISTICOS-BUCARAMANGA-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Laura Mantilla",
+        "residenceDepartment": "Santander",
+        "githubUser": "santi-castro-gamedev",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Gabriela Romero",
+        "trainingCenter": "CENTRO DE ELECTRICIDAD Y AUTOMATIZACION INDUSTRIAL -CALI-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Alexander Moreno",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": "gabiromero",
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Mateo Herrera",
+        "trainingCenter": "CENTRO DE FORMACIÓN EN DISEÑO, CONFECCIÓN Y MODA -ITAGUI-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Isabel Cristina Yepes",
+        "residenceDepartment": "Antioquia",
+        "githubUser": "mateoherrera-design",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Isabella Morales",
+        "trainingCenter": "CENTRO PARA LA INDUSTRIA PETROQUIMICA -CARTAGENA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Carlos Vives",
+        "residenceDepartment": "Bolívar",
+        "githubUser": null,
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Andrés Felipe Vargas",
+        "trainingCenter": "CENTRO DE LA INNOVACIÓN, LA AGROINDUSTRIA Y LA AVIACIÓN - RIONEGRO",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Catalina Sandino",
+        "residenceDepartment": "Antioquia",
+        "githubUser": "andresvargas-dev",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Laura Valentina Ríos",
+        "trainingCenter": "CENTRO DE GESTION INDUSTRIAL",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Javier Camargo",
+        "residenceDepartment": "Bogotá D.C.",
+        "githubUser": "lauravrios",
+        "englishLevel": "C1"
+    },
+    {
+        "fullName": "Javier Ricardo Peña",
+        "trainingCenter": "CENTRO DE COMERCIO Y SERVICIOS -MANIZALES-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Esteban Cortázar",
+        "residenceDepartment": "Caldas",
+        "githubUser": "javierp-code",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Daniela Sofía Mora",
+        "trainingCenter": "CENTRO DE INDUSTRIA Y SERVICIOS DEL META -VILLAVICENCIO-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Carolina Gaitán",
+        "residenceDepartment": "Meta",
+        "githubUser": null,
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Sebastián Muñoz",
+        "trainingCenter": "CENTRO AGROINDUSTRIAL -ARMENIA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Fabio Valencia",
+        "residenceDepartment": "Quindío",
+        "githubUser": "sebas-munoz",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Camila Andrea Gil",
+        "trainingCenter": "CENTRO DE DISEÑO TECNOLOGICO INDUSTRIAL -CALI-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Oscar Córdoba",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": "camilagil-design",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Nicolás Jiménez",
+        "trainingCenter": "CENTRO DE LA INDUSTRIA, LA EMPRESA Y LOS SERVICIOS -CUCUTA-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Paola Rey",
+        "residenceDepartment": "Norte de Santander",
+        "githubUser": "nico-jimenez",
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Mariana Gutiérrez",
+        "trainingCenter": "CENTRO DE SERVICIOS FINANCIEROS",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Andrés Parra",
+        "residenceDepartment": "Bogotá D.C.",
+        "githubUser": "marianagutz",
+        "englishLevel": "C1"
+    },
+    {
+        "fullName": "Alejandro Rubio",
+        "trainingCenter": "CENTRO DE BIOTECNOLOGIA INDUSTRIA -PALMIRA-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Felipe Peña",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": "alejorubio",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Valeria Castro",
+        "trainingCenter": "CENTRO DE TECNOLOGÍA DE LA MANUFACTURA AVANZADA -MEDELLIN-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Beatriz Londoño",
+        "residenceDepartment": "Antioquia",
+        "githubUser": "val-castro-dev",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "David Santiago León",
+        "trainingCenter": "CENTRO INDUSTRIAL Y DEL DESARROLLO TECNOLOGICO-BARRANCABERMEJA-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Silvia Tcherassi",
+        "residenceDepartment": "Santander",
+        "githubUser": null,
+        "englishLevel": "A1"
+    },
+    {
+        "fullName": "Luciana Navarro",
+        "trainingCenter": "CENTRO DE COMERCIO Y SERVICIOS -PEREIRA-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Jorge Barón",
+        "residenceDepartment": "Risaralda",
+        "githubUser": "luciananavarro",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Emilio Cárdenas",
+        "trainingCenter": "CENTRO DE GESTION Y DESARROLLO SOSTENIBLE SURCOLOMBIANO -PITALITO-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Hernán Zajar",
+        "residenceDepartment": "Huila",
+        "githubUser": "emilio-cardenas",
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Martina Sarmiento",
+        "trainingCenter": "CENTRO DE DISEÑO METROLOGIA Y CALIDAD",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Laura Rojas",
+        "residenceDepartment": "Bogotá D.C.",
+        "githubUser": "martinasarmiento",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Tomás Beltrán",
+        "trainingCenter": "CENTRO AGROPECUARIO DE BUGA -BUGA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Fernando Vallejo",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": null,
+        "englishLevel": "A1"
+    },
+    {
+        "fullName": "Salomé Guerrero",
+        "trainingCenter": "CENTRO DE LA IMNOVACION LA TECNOLOGIA Y LOS SERVICIOS -SINCELEJO-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Adriana Lucía",
+        "residenceDepartment": "Sucre",
+        "githubUser": "salome-guerrero",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Jerónimo Ríos",
+        "trainingCenter": "CENTRO DE FORMACION AGROINDUSTRIAL -CAMPOALEGRE-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Claudia Bahamón",
+        "residenceDepartment": "Huila",
+        "githubUser": "jeronimo-rios-dev",
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Antonia Mendoza",
+        "trainingCenter": "CENTRO DE COMERCIO, INDUSTRIA Y TURISMO DE CORDOBA -MONTERIA-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Manuel Turizo",
+        "residenceDepartment": "Córdoba",
+        "githubUser": "antonia-mendoza",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Benjamín Páez",
+        "trainingCenter": "CENTRO DE GESTION ADMINISTRATIVA Y FORTALECIMIENTO EMPRESARIAL -TUNJA-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Nairo Quintana",
+        "residenceDepartment": "Boyacá",
+        "githubUser": "benjaminpaez",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Elena Soto",
+        "trainingCenter": "CENTRO DE TECNOLOGIAS AGROINDUSTRIALES -CARTAGO-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Griselda Blanco",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": null,
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Felipe Aguilar",
+        "trainingCenter": "CENTRO DE GESTION DE MERCADOS, LOGISTICA Y TECNOLOGIAS DE LA INFORMACION",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Andrés Castillo",
+        "residenceDepartment": "Cundinamarca",
+        "githubUser": "felipe-aguilar",
+        "englishLevel": "C1"
+    },
+    {
+        "fullName": "Victoria Bernal",
+        "trainingCenter": "CENTRO DE TECNOLOGÍA DE LA MANUFACTURA AVANZADA -MEDELLIN-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Beatriz Londoño",
+        "residenceDepartment": "Antioquia",
+        "githubUser": "victoriabernal-art",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Joaquín Osorio",
+        "trainingCenter": "CENTRO DE BIOTECNOLOGIA INDUSTRIA -PALMIRA-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Felipe Peña",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": "joaquinosorio",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Amanda Pineda",
+        "trainingCenter": "CENTRO DE DISEÑO E INNOVACION TEGNOLOGICA INDUSTRIAL- DOS QUEBRADAS-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Ricardo Serna",
+        "residenceDepartment": "Risaralda",
+        "githubUser": "amanda-pineda-dev",
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Samuel Franco",
+        "trainingCenter": "CENTRO INDUSTRIAL Y DE AVIACION -BARRANQUILLA-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Sofia Vergara",
+        "residenceDepartment": "Atlántico",
+        "githubUser": null,
+        "englishLevel": "A1"
+    },
+    {
+        "fullName": "Olivia Montero",
+        "trainingCenter": "CENTRO DE COMERCIO Y SERVICIOS -POPAYAN-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Diego Ardila",
+        "residenceDepartment": "Cauca",
+        "githubUser": "oliviamontero",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Adrián Paredes",
+        "trainingCenter": "CENTRO DE GESTION ADMINISTRATIVA",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Mónica Alvarado",
+        "residenceDepartment": "Bogotá D.C.",
+        "githubUser": "adrian-paredes",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Clara Ibáñez",
+        "trainingCenter": "CENTRO DE INDUSTRIA Y CONSTRUCCION -IBAGUE-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Javier Mendez",
+        "residenceDepartment": "Tolima",
+        "githubUser": "claraibanez-design",
+        "englishLevel": "C1"
+    },
+    {
+        "fullName": "Marcos Solano",
+        "trainingCenter": "CENTRO DE SERVICIOS EMPRESARIALES Y TURISTICOS-BUCARAMANGA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Laura Mantilla",
+        "residenceDepartment": "Santander",
+        "githubUser": "marcos-solano",
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Julia Salgado",
+        "trainingCenter": "CENTRO DE ELECTRICIDAD Y AUTOMATIZACION INDUSTRIAL -CALI-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Alexander Moreno",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": null,
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Hugo Rincón",
+        "trainingCenter": "CENTRO DE FORMACIÓN EN DISEÑO, CONFECCIÓN Y MODA -ITAGUI-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Isabel Cristina Yepes",
+        "residenceDepartment": "Antioquia",
+        "githubUser": "hugorincon-gamedev",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Lola Campos",
+        "trainingCenter": "CENTRO PARA LA INDUSTRIA PETROQUIMICA -CARTAGENA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Carlos Vives",
+        "residenceDepartment": "Bolívar",
+        "githubUser": "lolacampos",
+        "englishLevel": "A1"
+    },
+    {
+        "fullName": "Pablo Bustamante",
+        "trainingCenter": "CENTRO DE LA INNOVACIÓN, LA AGROINDUSTRIA Y LA AVIACIÓN - RIONEGRO",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Catalina Sandino",
+        "residenceDepartment": "Antioquia",
+        "githubUser": "pablobusta",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Sara Céspedes",
+        "trainingCenter": "CENTRO DE GESTION INDUSTRIAL",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Javier Camargo",
+        "residenceDepartment": "Bogotá D.C.",
+        "githubUser": "saracespedes-dev",
+        "englishLevel": "C1"
+    },
+    {
+        "fullName": "Álvaro Barreto",
+        "trainingCenter": "CENTRO DE COMERCIO Y SERVICIOS -MANIZALES-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Esteban Cortázar",
+        "residenceDepartment": "Caldas",
+        "githubUser": null,
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Jimena Falla",
+        "trainingCenter": "CENTRO DE INDUSTRIA Y SERVICIOS DEL META -VILLAVICENCIO-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Carolina Gaitán",
+        "residenceDepartment": "Meta",
+        "githubUser": "jimenafalla",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Sergio Galindo",
+        "trainingCenter": "CENTRO AGROINDUSTRIAL -ARMENIA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Fabio Valencia",
+        "residenceDepartment": "Quindío",
+        "githubUser": "sergiogalindo-code",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Abril Hurtado",
+        "trainingCenter": "CENTRO DE DISEÑO TECNOLOGICO INDUSTRIAL -CALI-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Oscar Córdoba",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": "abrilhurtado",
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Lucas Quintero",
+        "trainingCenter": "CENTRO DE LA INDUSTRIA, LA EMPRESA Y LOS SERVICIOS -CUCUTA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Paola Rey",
+        "residenceDepartment": "Norte de Santander",
+        "githubUser": null,
+        "englishLevel": "A1"
+    },
+    {
+        "fullName": "Aitana Londoño",
+        "trainingCenter": "CENTRO DE SERVICIOS FINANCIEROS",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Andrés Parra",
+        "residenceDepartment": "Bogotá D.C.",
+        "githubUser": "aitanalondono",
+        "englishLevel": "C1"
+    },
+    {
+        "fullName": "Enzo Duarte",
+        "trainingCenter": "CENTRO DE BIOTECNOLOGIA INDUSTRIA -PALMIRA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Felipe Peña",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": "enzoduarte-dev",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Mía Coronado",
+        "trainingCenter": "CENTRO DE TECNOLOGÍA DE LA MANUFACTURA AVANZADA -MEDELLIN-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Beatriz Londoño",
+        "residenceDepartment": "Antioquia",
+        "githubUser": "miacoronado",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Thiago Arango",
+        "trainingCenter": "CENTRO INDUSTRIAL Y DEL DESARROLLO TECNOLOGICO-BARRANCABERMEJA-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Silvia Tcherassi",
+        "residenceDepartment": "Santander",
+        "githubUser": "thiagoarango",
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Noa Calderón",
+        "trainingCenter": "CENTRO DE COMERCIO Y SERVICIOS -PEREIRA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Jorge Barón",
+        "residenceDepartment": "Risaralda",
+        "githubUser": null,
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Leo Villalba",
+        "trainingCenter": "CENTRO DE GESTION Y DESARROLLO SOSTENIBLE SURCOLOMBIANO -PITALITO-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Hernán Zajar",
+        "residenceDepartment": "Huila",
+        "githubUser": "leovillalba",
+        "englishLevel": "A1"
+    },
+    {
+        "fullName": "Chloe Acosta",
+        "trainingCenter": "CENTRO DE DISEÑO METROLOGIA Y CALIDAD",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Laura Rojas",
+        "residenceDepartment": "Bogotá D.C.",
+        "githubUser": "chloeacosta-dev",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Héctor Palacios",
+        "trainingCenter": "CENTRO AGROPECUARIO DE BUGA -BUGA-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Fernando Vallejo",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": "hectorpalacios",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Alma Escudero",
+        "trainingCenter": "CENTRO DE LA IMNOVACION LA TECNOLOGIA Y LOS SERVICIOS -SINCELEJO-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Adriana Lucía",
+        "residenceDepartment": "Sucre",
+        "githubUser": null,
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Bruno Arevalo",
+        "trainingCenter": "CENTRO DE FORMACION AGROINDUSTRIAL -CAMPOALEGRE-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Claudia Bahamón",
+        "residenceDepartment": "Huila",
+        "githubUser": "bruno-arevalo",
+        "englishLevel": "C1"
+    },
+    {
+        "fullName": "Vera Ocampo",
+        "trainingCenter": "CENTRO DE COMERCIO, INDUSTRIA Y TURISMO DE CORDOBA -MONTERIA-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Manuel Turizo",
+        "residenceDepartment": "Córdoba",
+        "githubUser": "veraocampo",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Gael Zambrano",
+        "trainingCenter": "CENTRO DE GESTION ADMINISTRATIVA Y FORTALECIMIENTO EMPRESARIAL -TUNJA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Nairo Quintana",
+        "residenceDepartment": "Boyacá",
+        "githubUser": "gaelzambrano-code",
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Lía Pardo",
+        "trainingCenter": "CENTRO DE TECNOLOGIAS AGROINDUSTRIALES -CARTAGO-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Griselda Blanco",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": "liapardo-games",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Julen Fonseca",
+        "trainingCenter": "CENTRO DE GESTION DE MERCADOS, LOGISTICA Y TECNOLOGIAS DE LA INFORMACION",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Andrés Castillo",
+        "residenceDepartment": "Cundinamarca",
+        "githubUser": null,
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Iria Benítez",
+        "trainingCenter": "CENTRO DE TECNOLOGÍA DE LA MANUFACTURA AVANZADA -MEDELLIN-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Beatriz Londoño",
+        "residenceDepartment": "Antioquia",
+        "githubUser": "iriabenitez",
+        "englishLevel": "C1"
+    },
+    {
+        "fullName": "Pau Roldán",
+        "trainingCenter": "CENTRO DE BIOTECNOLOGIA INDUSTRIA -PALMIRA-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Felipe Peña",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": "pauroldan-media",
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Aina Arenas",
+        "trainingCenter": "CENTRO DE DISEÑO E INNOVACION TEGNOLOGICA INDUSTRIAL- DOS QUEBRADAS-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Ricardo Serna",
+        "residenceDepartment": "Risaralda",
+        "githubUser": "ainaarenas",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Alex Cifuentes",
+        "trainingCenter": "CENTRO INDUSTRIAL Y DE AVIACION -BARRANQUILLA-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Sofia Vergara",
+        "residenceDepartment": "Atlántico",
+        "githubUser": null,
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Laia Sepúlveda",
+        "trainingCenter": "CENTRO DE COMERCIO Y SERVICIOS -POPAYAN-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Diego Ardila",
+        "residenceDepartment": "Cauca",
+        "githubUser": "laiasepulveda",
+        "englishLevel": "A1"
+    },
+    {
+        "fullName": "Cesc Bolaños",
+        "trainingCenter": "CENTRO DE GESTION ADMINISTRATIVA",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Mónica Alvarado",
+        "residenceDepartment": "Bogotá D.C.",
+        "githubUser": "cescbolanos-dev",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Ariadna Perea",
+        "trainingCenter": "CENTRO DE INDUSTRIA Y CONSTRUCCION -IBAGUE-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Javier Mendez",
+        "residenceDepartment": "Tolima",
+        "githubUser": "ariadnaperea",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Biel Montiel",
+        "trainingCenter": "CENTRO DE SERVICIOS EMPRESARIALES Y TURISTICOS-BUCARAMANGA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Laura Mantilla",
+        "residenceDepartment": "Santander",
+        "githubUser": null,
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Nora Cadena",
+        "trainingCenter": "CENTRO DE ELECTRICIDAD Y AUTOMATIZACION INDUSTRIAL -CALI-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Alexander Moreno",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": "noracadena",
+        "englishLevel": "C1"
+    },
+    {
+        "fullName": "Pol Collazos",
+        "trainingCenter": "CENTRO DE FORMACIÓN EN DISEÑO, CONFECCIÓN Y MODA -ITAGUI-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Isabel Cristina Yepes",
+        "residenceDepartment": "Antioquia",
+        "githubUser": "polcollazos-design",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Candela Amaya",
+        "trainingCenter": "CENTRO PARA LA INDUSTRIA PETROQUIMICA -CARTAGENA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Carlos Vives",
+        "residenceDepartment": "Bolívar",
+        "githubUser": "candela-amaya",
+        "englishLevel": "A1"
+    },
+    {
+        "fullName": "Nil Marín",
+        "trainingCenter": "CENTRO DE LA INNOVACIÓN, LA AGROINDUSTRIA Y LA AVIACIÓN - RIONEGRO",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Catalina Sandino",
+        "residenceDepartment": "Antioquia",
+        "githubUser": null,
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Rocío Escobar",
+        "trainingCenter": "CENTRO DE GESTION INDUSTRIAL",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Javier Camargo",
+        "residenceDepartment": "Bogotá D.C.",
+        "githubUser": "rocioescobar-dev",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Jan Gallo",
+        "trainingCenter": "CENTRO DE COMERCIO Y SERVICIOS -MANIZALES-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Esteban Cortázar",
+        "residenceDepartment": "Caldas",
+        "githubUser": "jangallo",
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "India Fajardo",
+        "trainingCenter": "CENTRO DE INDUSTRIA Y SERVICIOS DEL META -VILLAVICENCIO-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Carolina Gaitán",
+        "residenceDepartment": "Meta",
+        "githubUser": "indiafajardo",
+        "englishLevel": "C1"
+    },
+    {
+        "fullName": "Izan Holguín",
+        "trainingCenter": "CENTRO AGROINDUSTRIAL -ARMENIA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Fabio Valencia",
+        "residenceDepartment": "Quindío",
+        "githubUser": null,
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Malak Jaramillo",
+        "trainingCenter": "CENTRO DE DISEÑO TECNOLOGICO INDUSTRIAL -CALI-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Oscar Córdoba",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": "malakjaramillo",
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Asier Lopera",
+        "trainingCenter": "CENTRO DE LA INDUSTRIA, LA EMPRESA Y LOS SERVICIOS -CUCUTA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Paola Rey",
+        "residenceDepartment": "Norte de Santander",
+        "githubUser": "asierlopera-code",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Zoe Pineda",
+        "trainingCenter": "CENTRO DE SERVICIOS FINANCIEROS",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Andrés Parra",
+        "residenceDepartment": "Bogotá D.C.",
+        "githubUser": "zoepineda-games",
+        "englishLevel": "A1"
+    },
+    {
+        "fullName": "Anas Quintana",
+        "trainingCenter": "CENTRO DE BIOTECNOLOGIA INDUSTRIA -PALMIRA-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Felipe Peña",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": null,
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Elif Ramos",
+        "trainingCenter": "CENTRO DE TECNOLOGÍA DE LA MANUFACTURA AVANZADA -MEDELLIN-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Beatriz Londoño",
+        "residenceDepartment": "Antioquia",
+        "githubUser": "eliframos",
+        "englishLevel": "C1"
+    },
+    {
+        "fullName": "Rayan Serna",
+        "trainingCenter": "CENTRO INDUSTRIAL Y DEL DESARROLLO TECNOLOGICO-BARRANCABERMEJA-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Silvia Tcherassi",
+        "residenceDepartment": "Santander",
+        "githubUser": "rayanserna",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Amira Tamayo",
+        "trainingCenter": "CENTRO DE COMERCIO Y SERVICIOS -PEREIRA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Jorge Barón",
+        "residenceDepartment": "Risaralda",
+        "githubUser": "amiratamayo-dev",
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Youssef Valencia",
+        "trainingCenter": "CENTRO DE GESTION Y DESARROLLO SOSTENIBLE SURCOLOMBIANO -PITALITO-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Hernán Zajar",
+        "residenceDepartment": "Huila",
+        "githubUser": null,
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Yasmin Zapata",
+        "trainingCenter": "CENTRO DE DISEÑO METROLOGIA Y CALIDAD",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Laura Rojas",
+        "residenceDepartment": "Bogotá D.C.",
+        "githubUser": "yasminzapata",
+        "englishLevel": "A1"
+    },
+    {
+        "fullName": "Mohamed Alvarado",
+        "trainingCenter": "CENTRO AGROPECUARIO DE BUGA -BUGA-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Fernando Vallejo",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": "mohamed-alvarado",
+        "englishLevel": "B2"
+    },
+    {
+        "fullName": "Fatima Aristizábal",
+        "trainingCenter": "CENTRO DE LA IMNOVACION LA TECNOLOGIA Y LOS SERVICIOS -SINCELEJO-",
+        "trainingProgram": "Producción de Multimedia",
+        "recommendedInstructor": "Adriana Lucía",
+        "residenceDepartment": "Sucre",
+        "githubUser": "fatima-aristi",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Adam Blandón",
+        "trainingCenter": "CENTRO DE FORMACION AGROINDUSTRIAL -CAMPOALEGRE-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Claudia Bahamón",
+        "residenceDepartment": "Huila",
+        "githubUser": null,
+        "englishLevel": "A2"
+    },
+    {
+        "fullName": "Maryam Botero",
+        "trainingCenter": "CENTRO DE COMERCIO, INDUSTRIA Y TURISMO DE CORDOBA -MONTERIA-",
+        "trainingProgram": "Desarrollo de Videojuegos",
+        "recommendedInstructor": "Manuel Turizo",
+        "residenceDepartment": "Córdoba",
+        "githubUser": "maryambotero-gamedev",
+        "englishLevel": "C1"
+    },
+    {
+        "fullName": "Imran Bravo",
+        "trainingCenter": "CENTRO DE GESTION ADMINISTRATIVA Y FORTALECIMIENTO EMPRESARIAL -TUNJA-",
+        "trainingProgram": "Desarrollo de Medios Gráficos Visuales",
+        "recommendedInstructor": "Nairo Quintana",
+        "residenceDepartment": "Boyacá",
+        "githubUser": "imranbravo",
+        "englishLevel": "B1"
+    },
+    {
+        "fullName": "Amelia Cabrera",
+        "trainingCenter": "CENTRO DE TECNOLOGIAS AGROINDUSTRIALES -CARTAGO-",
+        "trainingProgram": "Análisis y Desarrollo de Software",
+        "recommendedInstructor": "Griselda Blanco",
+        "residenceDepartment": "Valle del Cauca",
+        "githubUser": "ameliacabrera-dev",
+        "englishLevel": "A2"
+    }
+]
