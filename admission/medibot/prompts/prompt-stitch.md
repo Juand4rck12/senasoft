@@ -31,3 +31,6 @@ El 61.3% de quienes sufren demoras son adultos mayores. Los pacientes pierden en
 
 ### USUARIO OBJETIVO:
 María Paulina y Carlos. Usuarios con movilidad reducida o enfermedades crónicas, que necesitan una interfaz simple y fácil de usar.
+
+### LINK
+[https://www.figma.com/design/ERpqZ5X7r2kv5ndJyJylwc/Untitled?node-id=0-1&t=G25GxhjD3Npc5PsP-1]
